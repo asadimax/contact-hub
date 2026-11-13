@@ -1,0 +1,25 @@
+.ch-admin { max-width: 860px; }
+.ch-admin .ch-card { margin: 16px 0; padding: 4px 20px 16px; background: #fff; border: 1px solid #dcdcde; border-radius: 10px; }
+.ch-admin .ch-card h2 { margin: 16px 0 8px; font-size: 15px; }
+.ch-admin .ch-field { margin: 12px 0; }
+.ch-admin .ch-field > label:first-child,
+.ch-admin .ch-lbl { display: block; margin-bottom: 4px; font-weight: 600; }
+.ch-admin .ch-check > label { font-weight: 400; }
+.ch-admin .ch-inline-check { display: inline-block; margin-inline-end: 16px; font-weight: 400; }
+.ch-admin .ch-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 0 20px; }
+
+#ch-channels { margin: 12px 0 0; padding: 0; }
+.ch-chan { display: grid; grid-template-columns: 24px 140px 1.3fr 1fr 1.3fr 24px; gap: 8px; align-items: center; margin: 0 0 8px; padding: 8px; background: #f6f7f7; border: 1px solid #e0e0e0; border-radius: 8px; }
+.ch-chan input, .ch-chan select { width: 100%; min-width: 0; }
+.ch-handle { color: #8c8f94; cursor: grab; }
+.ch-remove { color: #b32d2e; cursor: pointer; }
+.ui-sortable-helper { box-shadow: 0 6px 18px rgba(0, 0, 0, .15); }
+
+.ch-hours { border-collapse: collapse; margin: 8px 0 16px; }
+.ch-hours th, .ch-hours td { padding: 4px 16px 4px 0; text-align: start; font-weight: 400; }
+.ch-hours th { min-width: 150px; }
+
+@media (max-width: 782px) {
+	.ch-chan { grid-template-columns: 24px 1fr 24px; }
+	.ch-chan .ch-val, .ch-chan .ch-lab, .ch-chan .ch-sublab { grid-column: 2 / 3; }
+}

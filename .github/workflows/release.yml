@@ -1,0 +1,29 @@
+name: Release
+
+# Push a tag such as v2.2.0 and this builds a WordPress-ready zip
+# (folder name "contact-hub") and attaches it to a GitHub Release.
+on:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: write
+
+jobs:
+  zip:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: contact-hub
+
+      - name: Build plugin zip
+        run: |
+          rm -rf contact-hub/.git contact-hub/.github contact-hub/.gitignore
+          zip -r contact-hub.zip contact-hub
+
+      - name: Publish release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: contact-hub.zip
+          generate_release_notes: true

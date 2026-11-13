@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Hub 2.1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Chat on WhatsApp"
+msgstr "گفتگو در واتس‌اپ"
+
+msgid "Message on Telegram"
+msgstr "پیام در تلگرام"
+
+msgid "Eitaa"
+msgstr "ایتا"
+
+msgid "Message on Eitaa"
+msgstr "پیام در ایتا"
+
+msgid "Bale"
+msgstr "بله"
+
+msgid "Message on Bale"
+msgstr "پیام در بله"
+
+msgid "Rubika"
+msgstr "روبیکا"
+
+msgid "Message on Rubika"
+msgstr "پیام در روبیکا"
+
+msgid "Send a direct message"
+msgstr "ارسال پیام مستقیم"
+
+msgid "Chat on Messenger"
+msgstr "گفتگو در مسنجر"
+
+msgid "Chat on Viber"
+msgstr "گفتگو در وایبر"
+
+msgid "SMS"
+msgstr "پیامک"
+
+msgid "Send a text message"
+msgstr "ارسال پیامک"
+
+msgid "Phone call"
+msgstr "تماس تلفنی"
+
+msgid "Call us now"
+msgstr "همین حالا تماس بگیرید"
+
+msgid "Email"
+msgstr "ایمیل"
+
+msgid "Write us an email"
+msgstr "برای ما ایمیل بنویسید"
+
+msgid "Link"
+msgstr "پیوند"
+
+msgid "Open the contact page"
+msgstr "باز کردن صفحه تماس"
+
+msgid "Copied"
+msgstr "کپی شد"
+
+msgid "Dismiss"
+msgstr "بستن"
+
+msgid "Copy %s"
+msgstr "کپی %s"
+
+msgid "Need help?"
+msgstr "به کمک نیاز دارید؟"
+
+msgid "Pick a channel and we will get back to you."
+msgstr "یکی از راه‌ها را انتخاب کنید تا پاسخ شما را بدهیم."
+
+msgid "We're online and ready to reply."
+msgstr "آنلاین هستیم و آماده پاسخ‌گویی."
+
+msgid "We're away right now. Leave a message and we'll reply when we're back."
+msgstr "فعلاً در دسترس نیستیم. پیام بگذارید، بعد از بازگشت پاسخ می‌دهیم."
+
+msgid "Questions? Message us here."
+msgstr "سؤالی دارید؟ همین‌جا پیام بدهید."
+
+msgid "Hi! I'm on {page_title} ({page_url}) and have a question."
+msgstr "سلام! من در صفحهٔ {page_title} ({page_url}) هستم و یک سؤال دارم."
+
+msgid "Contact Hub"
+msgstr "مرکز تماس"
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "Drag to reorder"
+msgstr "برای تغییر ترتیب بکشید"
+
+msgid "Channel"
+msgstr "کانال"
+
+msgid "Number, username or address"
+msgstr "شماره، نام‌کاربری یا نشانی"
+
+msgid "Custom label"
+msgstr "عنوان دلخواه"
+
+msgid "Custom description"
+msgstr "توضیح دلخواه"
+
+msgid "Remove channel"
+msgstr "حذف کانال"
+
+msgid "Add at least one channel below. The widget stays hidden until you do."
+msgstr "دست‌کم یک کانال در پایین اضافه کنید. تا آن موقع ویجت نمایش داده نمی‌شود."
+
+msgid "Widget"
+msgstr "ویجت"
+
+msgid "Show the widget on my site"
+msgstr "نمایش ویجت در سایت"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Subtitle"
+msgstr "زیرعنوان"
+
+msgid "Shown under the title. Replaced by the online/offline messages when business hours are on."
+msgstr "زیر عنوان نمایش داده می‌شود. با فعال بودن ساعات کاری، جای آن پیام آنلاین/آفلاین می‌آید."
+
+msgid "Channels"
+msgstr "کانال‌ها"
+
+msgid "Drag to reorder. Leave label and description empty to use the defaults. Phone numbers accept Persian digits; 09121234567 is converted to the international format automatically."
+msgstr "برای تغییر ترتیب بکشید. اگر عنوان و توضیح را خالی بگذارید، مقدار پیش‌فرض استفاده می‌شود. شماره‌ها با ارقام فارسی هم پذیرفته می‌شوند و 09121234567 خودکار به قالب بین‌المللی تبدیل می‌شود."
+
+msgid "Add channel"
+msgstr "افزودن کانال"
+
+msgid "Prefilled message"
+msgstr "پیام پیش‌فرض"
+
+msgid "Used by WhatsApp, SMS and Email. Placeholders: {page_title} and {page_url}."
+msgstr "برای واتس‌اپ، پیامک و ایمیل استفاده می‌شود. جانگهدارها: {page_title} و {page_url}."
+
+msgid "Appearance"
+msgstr "ظاهر"
+
+msgid "Position"
+msgstr "موقعیت"
+
+msgid "Right"
+msgstr "راست"
+
+msgid "Left"
+msgstr "چپ"
+
+msgid "Color mode"
+msgstr "حالت رنگ"
+
+msgid "Light"
+msgstr "روشن"
+
+msgid "Dark"
+msgstr "تیره"
+
+msgid "Follow the visitor's device"
+msgstr "پیروی از دستگاه بازدیدکننده"
+
+msgid "Accent color"
+msgstr "رنگ اصلی"
+
+msgid "Distance from the side (px)"
+msgstr "فاصله از کنار (پیکسل)"
+
+msgid "Distance from the bottom (px)"
+msgstr "فاصله از پایین (پیکسل)"
+
+msgid "Pulsing ring around the button"
+msgstr "حلقهٔ پالس دور دکمه"
+
+msgid "A soft attention-grabbing animation. It stops on hover, when the panel is open, and for visitors who prefer reduced motion."
+msgstr "انیمیشنی ملایم برای جلب توجه. با رفتن ماوس روی دکمه، باز بودن پنل و برای کاربرانی که حرکت کمتر را ترجیح می‌دهند متوقف می‌شود."
+
+msgid "Welcome bubble text"
+msgstr "متن حباب خوش‌آمدگویی"
+
+msgid "Show the welcome bubble after (seconds)"
+msgstr "نمایش حباب پس از (ثانیه)"
+
+msgid "Shown once per visitor. Set 0 to turn the bubble off."
+msgstr "برای هر بازدیدکننده یک بار نمایش داده می‌شود. برای خاموش کردن، ۰ بگذارید."
+
+msgid "Business hours"
+msgstr "ساعات کاری"
+
+msgid "Show an online/offline status"
+msgstr "نمایش وضعیت آنلاین/آفلاین"
+
+msgid "Uses your site timezone (%s). Change it in Settings → General."
+msgstr "از منطقهٔ زمانی سایت (%s) استفاده می‌کند. آن را در تنظیمات ← همگانی تغییر دهید."
+
+msgid "Opens at"
+msgstr "ساعت شروع"
+
+msgid "Closes at"
+msgstr "ساعت پایان"
+
+msgid "Message while online"
+msgstr "پیام هنگام آنلاین بودن"
+
+msgid "Message while offline"
+msgstr "پیام هنگام آفلاین بودن"
+
+msgid "Where to show it"
+msgstr "محل نمایش"
+
+msgid "Show on desktop and tablets"
+msgstr "نمایش در دسکتاپ و تبلت"
+
+msgid "Show on phones"
+msgstr "نمایش در موبایل"
+
+msgid "Hide on these content types"
+msgstr "پنهان کردن در این نوع محتوا"
+
+msgid "Hide on these page IDs"
+msgstr "پنهان کردن در این شناسه‌ها"
+
+msgid "Comma-separated post or page IDs."
+msgstr "شناسهٔ نوشته یا برگه، با ویرگول جدا شود."
+
+msgid "Hide on the WooCommerce cart and checkout"
+msgstr "پنهان کردن در سبد خرید و تسویه‌حساب ووکامرس"
+
+msgid "Analytics"
+msgstr "آمار"
+
+msgid "Send click events to Google Tag Manager / Google Analytics"
+msgstr "ارسال رویداد کلیک به Google Tag Manager / Google Analytics"
+
+msgid "Pushes a contact_hub_click event to dataLayer and a contact_click event to gtag, if they exist on your site. Nothing is sent to us or anyone else."
+msgstr "اگر dataLayer یا gtag در سایت باشد، رویدادهای contact_hub_click و contact_click را به آن‌ها می‌فرستد. هیچ داده‌ای به ما یا شخص دیگری ارسال نمی‌شود."
+
+msgid "Want the buttons inside a page? Use the shortcode [contact_hub_buttons]."
+msgstr "می‌خواهید دکمه‌ها داخل یک صفحه باشند؟ از شورت‌کد [contact_hub_buttons] استفاده کنید."
+
